@@ -3,15 +3,17 @@
     {
       "id": "1",
       "name": "S2A",
-      "order": {
-        "id": "1",
-        "status": "approved",
-        "amount": "20.00",
-        "time": "2020-03-31 11:31:26",
-        "user": {
-          "id": "2",
-          "name": "Leanne Graham"
-        }
+      "order": [
+        {
+          "id": "1",
+          "status": "approved",
+          "amount": "20.00",
+          "time": "2020-03-31 11:31:26",
+          "user": {
+            "id": "2",
+            "name": "Leanne Graham"
+          }
+        ]
       }
     }
   ]
